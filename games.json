@@ -1,0 +1,10 @@
+{
+    "minimumVersionCode": 1,
+    "games": [
+        {
+            "repository": "journeymanoc/ltdct",
+            "id": "ltdct",
+            "name": "Long-Term Discreet Chastity Interactive"
+        }
+    ]
+}
